@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan José Medicis Zambrano
 
-<!--
-**Juan-MZ/Juan-MZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de décimo semestre de Ingeniería de Sistemas apasionado por el desarrollo de software.  
+💻 Desarrollador de back-end con experiencia en Java, Spring Boot, SQL y microservicios.  
+🛠️ Familiarizado con metodologías ágiles como Scrum y con un buen manejo del idioma inglés.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y Herramientas
+
+- **Lenguajes de programación:** Java, TypeScript
+- **Frameworks:** Spring Boot
+- **Bases de datos:** SQL
+- **Metodologías:** Scrum
+- **Otros:** Microservicios
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/juanjosemedicis)
+- 📸 [Instagram](https://www.instagram.com/juan.medicis)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Juan José's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-MZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y nuevas oportunidades. 🚀
