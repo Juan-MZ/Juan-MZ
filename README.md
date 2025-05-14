@@ -8,10 +8,10 @@
 
 ## 🧰 Tecnologías y Herramientas
 
-- **Lenguajes de programación:** Java, TypeScript
-- **Frameworks:** Spring Boot
-- **Bases de datos:** SQL
-- **Metodologías:** Scrum
+- **Lenguajes de programación:** Java, TypeScript, Dart
+- **Frameworks:** Spring Boot, Flutter, Angular
+- **Bases de datos:** SQL (PostgreSQL, MySQL)
+- **Metodologías de trabajo:** Scrum
 - **Otros:** Microservicios
 
 ---
@@ -20,6 +20,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juanjosemedicis)
 - 📸 [Instagram](https://www.instagram.com/juan.medicis)
+- 📧 juanjosemedicis@gmail.com
 
 ---
 
