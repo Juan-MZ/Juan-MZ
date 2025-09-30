@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Juan José Medicis Zambrano
 
-🎓 Estudiante de décimo semestre de Ingeniería de Sistemas apasionado por el desarrollo de software.  
+🎓 Ingeniero de Sistemas apasionado por el desarrollo de software.  
+💻 Desarrollador de front-end con experiencia en flutter.  
 💻 Desarrollador de back-end con experiencia en Java, Spring Boot, SQL y microservicios.  
 🛠️ Familiarizado con metodologías ágiles como Scrum y con un buen manejo del idioma inglés.
 
