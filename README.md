@@ -27,7 +27,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&theme=radical&hide=SWIG,Makefile)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&theme=radical&hide=SWIG,Makefile)
 
 ---
 
