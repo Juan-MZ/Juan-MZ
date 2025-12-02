@@ -25,10 +25,4 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&theme=radical&hide=SWIG,Makefile)
-
----
-
-¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y nuevas oportunidades. 🚀
+¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y nuevos proyectos. 🚀
