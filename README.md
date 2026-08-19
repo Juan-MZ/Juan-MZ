@@ -67,8 +67,8 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-MZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Juan-MZ&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
