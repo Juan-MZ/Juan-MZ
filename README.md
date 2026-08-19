@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Juan+José+%F0%9F%91%8B;CEO+%26+Co-founder+%40+Atlantes.dev;Full-Stack+Software+Engineer;Building+the+software+of+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Juan+Jos%C3%A9+%F0%9F%91%8B;CEO+%26+Co-founder+%40+Atlantes.dev;Full-Stack+Software+Engineer;Building+the+software+of+tomorrow)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,6 +20,7 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 > *"Small team. Serious software."* — Precision over volume, quality over quantity.
 
 - 🏢 **CEO & Co-founder** at [Atlantes.dev](https://www.atlantes.dev)
+- 🎓 Pursuing an M.Eng. in Software Engineering (MIS) at Pontificia Universidad Javeriana Cali — researching **automated architectural drift detection with Fitness Functions**
 - 🚀 Building SaaS products, automation tools & enterprise platforms
 - 🤖 Integrating **AI & ML** into real-world applications
 - 🌎 Working remotely with clients across **Colombia and Latin America**
@@ -56,13 +57,17 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-MZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-MZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-MZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -82,6 +87,7 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔁 **[Looping](https://looping.atlantes.dev)** | SaaS tool for automating Facebook posts — desktop app, licensing & payments | Angular · Electron · Mercado Pago |
+| 🏠 **MiRent** | Freemium mobile app for personal/property rental management, local-first with optional cloud sync | Flutter · Spring Boot · PostgreSQL |
 | 🏗️ **[Construmedicis](https://construmedicis.vercel.app)** | Corporate website for a construction company with project catalog | Angular · Tailwind · Vercel |
 | 🚗 **[CDA del Putumayo](https://www.cdadelputumayo.com/site/)** | Institutional site for a vehicle diagnostics center | Angular · Tailwind · Vercel |
 | 📊 **Sistema de Gestión Empresarial** | ERP platform integrating CRM, inventory & analytics | Vue.js · Laravel · MySQL |
