@@ -20,6 +20,7 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 > *"Small team. Serious software."* — Precision over volume, quality over quantity.
 
 - 🏢 **CEO & Co-founder** at [Atlantes.dev](https://www.atlantes.dev)
+- 💼 **Full-time Developer** at [SoMoS](https://www.somos.biz) — IoT & Big Data solutions
 - 🎓 Pursuing an M.Eng. in Software Engineering (MIS) at Pontificia Universidad Javeriana Cali — researching **automated architectural drift detection with Fitness Functions**
 - 🚀 Building SaaS products, automation tools & enterprise platforms
 - 🤖 Integrating **AI & ML** into real-world applications
@@ -90,7 +91,6 @@ I'm **Juan José Medicis Zambrano**, a software engineer and entrepreneur from C
 | 🏠 **MiRent** | Freemium mobile app for personal/property rental management, local-first with optional cloud sync | Flutter · Spring Boot · PostgreSQL |
 | 🏗️ **[Construmedicis](https://construmedicis.vercel.app)** | Corporate website for a construction company with project catalog | Angular · Tailwind · Vercel |
 | 🚗 **[CDA del Putumayo](https://www.cdadelputumayo.com/site/)** | Institutional site for a vehicle diagnostics center | Angular · Tailwind · Vercel |
-| 📊 **Sistema de Gestión Empresarial** | ERP platform integrating CRM, inventory & analytics | Vue.js · Laravel · MySQL |
 
 </div>
 
